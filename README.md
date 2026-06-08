@@ -4,7 +4,7 @@
 To demonstrate the application of actuarial and statistical techniques to insurance claim frequency data in python.
 
 ### Overview
-This project examines French motor third-party liability insurance data through exploratory data analysis and count-based modeling. The analysis includes Poisson and Negative Binomial generalized linear models, Lasso-based variable selection, and an evaluation of predictive performance.
+This project examines French motor third-party liability insurance data through exploratory data analysis and count-based modeling. The analysis includes Poisson and Negative Binomial generalized linear models, Lasso-based variable selection, an evaluation of predictive performance, and a simulation of claim counts of a high-risk subgroup.
 
 ### Key insights
 - Negative Binomial gave the best test-set performance, slightly outperforming both Poisson and NB-Lasso.
